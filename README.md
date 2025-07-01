@@ -28,6 +28,10 @@
 | Škoda             |  7 379                     |
 | Volkswagen        |  6 578                     |
 | Kia               |  5 316                     |
+
+https://github.com/user-attachments/assets/5eb584f2-d79d-4c5d-98e3-3aa50ed9baf6
+
+
 | Mercedes-Benz     |  3 876                     |
 | Tesla             |  3 717                     |
 | BMW               |  3 717                     |
@@ -36,6 +40,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/28cd6033-765d-4961-9d31-d68a62b11ab2)
+
+
 
 
 

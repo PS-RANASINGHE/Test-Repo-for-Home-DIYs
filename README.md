@@ -42,6 +42,21 @@
 
 https://github.com/user-attachments/assets/5eb584f2-d79d-4c5d-98e3-3aa50ed9baf6
 
+```mermaid
+pie
+  title New Registrations by Brand in 2024
+  "Toyota": 12464
+  "Volvo": 7801
+  "Škoda": 7379
+  "Volkswagen": 6578
+  "Kia": 5316
+  "Mercedes-Benz": 3876
+  "Tesla": 3717
+  "BMW": 3717
+  "Hyundai": 3100
+  "Nissan": 2956
+```
+
 
 
 

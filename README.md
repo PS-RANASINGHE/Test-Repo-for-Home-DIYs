@@ -58,7 +58,7 @@ pie
   "Hyundai": 3100
   "Nissan": 2956
 ```
-# bar chart for test purposes
+# bar chart for test purposes and new tab opening
 
 ![Bar Graph][image](https://github.com/user-attachments/assets/0527fbd9-022f-4871-a171-27d25e17fd5b)
 

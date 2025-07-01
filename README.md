@@ -56,7 +56,18 @@ pie
   "Hyundai": 3100
   "Nissan": 2956
 ```
+# bar chart for test purposes
 
+```mermaid
+bar
+  title Finnish Mushrooms by Edibility Category
+  "Edible, choice": 2
+  "Edible": 4
+  "Edible (when young)": 1
+  "Poisonous raw; edible after cooking": 1
+  "Poisonous (hallucinogenic)": 1
+  "Deadly poisonous": 1
+```
 
 
 

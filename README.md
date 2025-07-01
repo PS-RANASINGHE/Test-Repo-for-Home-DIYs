@@ -1,5 +1,7 @@
 # Test-Repo-for-Home-DIYs
 
+This repo is mainly used to maintain data for my DIY proect such as Robot framework testing, NLP, Web scraping etc
+
 
 # Finnish Mushrooms
 | Mushroom (English / Finnish)               | Scientific Name          | Edibility                                |

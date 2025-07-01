@@ -59,7 +59,7 @@ pie
 # bar chart for test purposes
 
 ```mermaid
-bar
+graph
   title Finnish Mushrooms by Edibility Category
   "Edible, choice": 2
   "Edible": 4

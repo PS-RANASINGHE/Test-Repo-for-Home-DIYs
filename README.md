@@ -58,16 +58,11 @@ pie
 ```
 # bar chart for test purposes
 
-```mermaid
-graph
-  title Finnish Mushrooms by Edibility Category
-  "Edible, choice": 2
-  "Edible": 4
-  "Edible (when young)": 1
-  "Poisonous raw; edible after cooking": 1
-  "Poisonous (hallucinogenic)": 1
-  "Deadly poisonous": 1
-```
+![Bar Graph][image](https://github.com/user-attachments/assets/0527fbd9-022f-4871-a171-27d25e17fd5b)
+
+
+# Testing maps
+
 
 ```geojson
 {
